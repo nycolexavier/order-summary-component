@@ -1,10 +1,9 @@
-![banner-blog-codelandia](https://user-images.githubusercontent.com/74930052/148758648-71a20c6c-cfcb-4889-8d20-bb21e9b4f039.png)
+![banner-order-summary-component](https://user-images.githubusercontent.com/74930052/148762832-90583780-6c95-47de-92fb-1f22e7381c1e.png)
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
 ### Application: 
-![aplicacao-codelandia](https://user-images.githubusercontent.com/74930052/148758665-add4b22a-9ebc-4ce5-b3be-4a2c088010a0.png)
-
+![aplicacao-order-summary-component](https://user-images.githubusercontent.com/74930052/148762858-3cd88885-4c02-41ba-80e0-6383722a3a0f.png)
 
 <p align="center">Este repositório faz parte de um tutorial da Girl Coding <a href="https://www.youtube.com/watch?v=ap_KHxw4Q_E" target='_blank'> Aqui </a> </p>
 
